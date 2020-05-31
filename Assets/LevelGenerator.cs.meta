@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42a9eb7e305b04e1ba8103139fb7fef2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - platformPrefab: {instanceID: 0}
+  - bigplatformPrefab: {instanceID: 0}
+  - fireplatformPrefab: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
